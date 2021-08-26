@@ -1,0 +1,23 @@
+img {
+  width: 120px;
+  height: 120px;
+}
+
+td .name {
+  margin-top: 10px;
+}
+
+.qte .btn {
+  background-color: rgb(91, 91, 246);
+  padding: 1.5%;
+  border-radius: none;
+}
+
+.qte .btn1 {
+  background-color: rgb(91, 91, 246);
+  padding: 1.5%;
+}
+
+.titre {
+  text-align: center;
+}
